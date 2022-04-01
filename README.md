@@ -2,8 +2,10 @@
 
 I'm a second year PhD student at the University of Surrey, UK working on applied machine learning for video understanding. 
 
-- 📝 My latest paper is here -> `https://arxiv.org/abs/2012.02639` (IEEE ICIP 2021).
+News
+
 - 👨🏻‍🔧 I'm an incoming summer 2022 research intern at Samsung Research UK
+
 
 [![](https://github-readme-stats.vercel.app/api/top-langs/?username=ed-fish&layout=compact&theme=bear&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 [![](https://github-readme-stats.vercel.app/api?username=ed-fish&count_private=true&theme=bear&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
