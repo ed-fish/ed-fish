@@ -5,8 +5,8 @@ I'm a second year PhD student at the University of Surrey, UK working on applied
 News
 
 - 👨🏻‍🔧 I'm currently working as a research intern at Samsung Research UK
-- My paper "Two-Stream Transformer Architecture for Long Form Video Understanding" is accepted for BMVC 2022
-- My paper "Re-thinking genre classification with fine-grained semantic experts" is accepted for ICIP 2021
+- "Two-Stream Transformer Architecture for Long Form Video Understanding" is accepted for BMVC 2022
+- "Re-thinking genre classification with fine-grained semantic experts" is accepted for ICIP 2021
 
 
 [![](https://github-readme-stats.vercel.app/api/top-langs/?username=ed-fish&layout=compact&theme=bear&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
