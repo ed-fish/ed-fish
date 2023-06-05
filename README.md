@@ -4,6 +4,7 @@ I'm a third year PhD student at the University of Surrey, UK working on ML optim
 
 News
 
+- "A model for every user and budget - data-free mixed-precision ASR quantization" is accepted for INTERSPEECH 23 (aug 23)
 - I am back at The University of Surrey completing my PhD (feb 23)
 - 👨🏻‍🔧 I'm currently working as a research intern at Samsung Research UK (Completed feb 22 - feb 23)
 - "Two-Stream Transformer Architecture for Long Form Video Understanding" is accepted for BMVC 2022 (march 22)
