@@ -1,4 +1,4 @@
-#### Hello!
+### Welcome! 
 I'm a research associate and PhD student at the University of Surrey in the Innovative Media Lab. I work on multi-modal video understanding and efficient ML.
 
 News
