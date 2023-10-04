@@ -1,5 +1,5 @@
 ### Welcome! 
-I'm a research associate and PhD student at the University of Surrey in the Innovative Media Lab. I work on multi-modal video understanding and efficient ML.
+I'm a research associate and PhD student at the University of Surrey in the Innovative Media Lab where I work on multi-modal video understanding and efficient ML.
 
 News
 - 🙀The end of my Post-Doc is approaching fast (Feb 24) - If you are looking for a highly motivated research scientist with experience in multi-modal video understanding, optimization, and efficiency please reach out via [LinkedIn](https://www.linkedin.com/in/ed-fish/)
