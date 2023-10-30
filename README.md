@@ -1,5 +1,5 @@
 ### Welcome! 
-I'm a research associate and PhD student at the University of Surrey in the Innovative Media Lab where I work on multi-modal video understanding and efficient ML.
+I'm a research associate and PhD student at the University of Surrey in the Innovative Media Lab where I work on multi-modal video understanding, ASR, and efficient ML.
 
 ## News
 - "Multi-resolution audio-visual feature fusion for temporal action localization" is accepted at NeurIPS 23 ML for Audio Workshop (Oct 23).
