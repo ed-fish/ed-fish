@@ -2,6 +2,7 @@
 I'm a research associate and PhD student at the University of Surrey in the Innovative Media Lab where I work on multi-modal video understanding, ASR, and efficient ML.
 
 ## News
+- My work is featured in the Samsung AI Research blog [here](https://research.samsung.com/blog/A-Model-for-Every-User-and-Budget-Label-Free-and-Personalized-Mixed-Precision-Quantization)
 - "Multi-resolution audio-visual feature fusion for temporal action localization" is accepted at NeurIPS 23 ML for Audio Workshop (Oct 23).
 - 🙀The end of my Post-Doc is approaching fast (Feb 24) - If you are looking for a highly motivated research scientist with experience in multi-modal video understanding, optimization, and efficiency please reach out via [LinkedIn](https://www.linkedin.com/in/ed-fish/)
 - 🤑 I was extrememly lucky to win EU Horizon funding to extend my research in efficient multi-modal video understanding until Feb 24
