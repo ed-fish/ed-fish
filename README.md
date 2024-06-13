@@ -1,8 +1,9 @@
 ### Welcome! 
-I'm a research assistant in Responsible AI at King's College London and a PhD student at the University of Surrey in the Innovative Media Lab where I work on multi-modal video understanding, ASR, and efficient ML.
-
+I'm a research fellow in the Cognitive Vision Group at CVSSP - University of Surrey. 
 ## News
-- I've joined King's College London as a researcher in Responsible AI - ML for Social Good Track.
+- I've joined CVSSP as a Research Fellow in Computer Vision. 
+- 📰 PLOT-TAL: Optimal Transport for Few Shot Temporal Action Localization pre-print available [here](https://arxiv.org/pdf/2403.18915)
+- I've joined King's College London as a research associate in Responsible AI. 
 - 👨🏻‍🔧 Code for our Interspeech paper on zero-shot personalized ASR quantization is released at Samsung Labs: [myQASR Code]( https://github.com/SamsungLabs/myQASR)
 - 📚 My work is featured in the Samsung AI Research blog [here](https://research.samsung.com/blog/A-Model-for-Every-User-and-Budget-Label-Free-and-Personalized-Mixed-Precision-Quantization)
 - 📰 "Multi-resolution audio-visual feature fusion for temporal action localization" is accepted at NeurIPS 23 ML for Audio Workshop (Oct 23).
