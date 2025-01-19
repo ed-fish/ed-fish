@@ -1,7 +1,7 @@
 ### Welcome! 
 I'm a research fellow in the Cognitive Vision Group at CVSSP - University of Surrey. 
 ## News
-- I defended my thesis with minor corrections (Aug 24)
+- I got my PhD! (Oct 24)
 - I've joined CVSSP as a Research Fellow in Computer Vision. 
 - 📰 PLOT-TAL: Optimal Transport for Few Shot Temporal Action Localization pre-print available [here](https://arxiv.org/pdf/2403.18915)
 - I've joined King's College London as a research associate in Responsible AI. 
