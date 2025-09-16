@@ -1,11 +1,11 @@
 ### Welcome! 
 I'm a research fellow in the Cognitive Vision Group at CVSSP - University of Surrey. 
 ## News
+- 📰 PLOT-TAL: Optimal Transport for Few Shot Temporal Action Localization is accepted to ICCV Workshop CLVL Read the paper [here](https://arxiv.org/pdf/2403.18915)
 - 📰 VALLR - Visual ASR Language Model for Lip Reading is accepted to ICCV 2025 (Jun 25)
 - 📰 Code and Paper for Geo-Sign now available [here](https://github.com/ed-fish/Geo-Sign)
 - I got my PhD! (Oct 24)
 - I've joined CVSSP as a Research Fellow in Computer Vision. 
-- 📰 PLOT-TAL: Optimal Transport for Few Shot Temporal Action Localization pre-print available [here](https://arxiv.org/pdf/2403.18915)
 - I've joined King's College London as a research associate in Responsible AI. 
 - 👨🏻‍🔧 Code for our Interspeech paper on zero-shot personalized ASR quantization is released at Samsung Labs: [myQASR Code]( https://github.com/SamsungLabs/myQASR)
 - 📚 My work is featured in the Samsung AI Research blog [here](https://research.samsung.com/blog/A-Model-for-Every-User-and-Budget-Label-Free-and-Personalized-Mixed-Precision-Quantization)
