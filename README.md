@@ -2,7 +2,7 @@
 I'm a research fellow in the Cognitive Vision Group at CVSSP - University of Surrey. 
 ## News 
 - 🎉 Geo-Sign is accepted to NeurIPS 2025! 
-- 🎉 PLOT-TAL: Optimal Transport for Few Shot Temporal Action Localization is accepted to ICCV Workshop CLVL Read the paper [here](https://arxiv.org/pdf/2403.18915)
+- 🎉 PLOT-TAL: Optimal Transport for Few Shot Temporal Action Localization is accepted to ICCV Workshop CLVL. [Paper](https://arxiv.org/pdf/2403.18915)
 - 🎉 VALLR - Visual ASR Language Model for Lip Reading is accepted to ICCV 2025!
 - 📰 Code and Paper for Geo-Sign now available [here](https://github.com/ed-fish/Geo-Sign)
 - I got my PhD! (Oct 24)
